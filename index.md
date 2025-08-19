@@ -1,12 +1,5 @@
-# List Of our projects
-* [User Title Generator](https://github.com/AbsentServices/UserTitleGenerator)
-* [DiscordBot.js](https://github.com/AbsentServices/DiscordBot.js)
-* [DiscordJsBot](https://github.com/AbsentServices/DiscordJsBot)
+# Social Media
+* [Twitter/X](https://x.com/absentplays)
+* [Twitch](https://www.twitch.tv/absentplays)
+* Discord: Absentplays
 
-# Discord Servers
-* [Network](https://discord.gg/Da73My9ng2) - Gaming Discord for all
-* [Absent Discord Templates](https://discord.gg/SHPab9YH6T) - Free Discord Templates
-
-
-# Game Servers
-* [Galaxy Rust - Coming soon]()
