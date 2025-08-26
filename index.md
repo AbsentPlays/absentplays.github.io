@@ -5,19 +5,11 @@
 
 # Discord Servers
 
-[Network](/assets/images/network.png "[Network](https://discord.gg/Da73My9ng2)) 
-
-[AbsentServices](/assets/images/AS.png "[Network](https://discord.gg/Da73My9ng2))
-
-[ADT](/assets/images/ADT.png "[ADT](https://discord.gg/Da73My9ng2))
-
-
-
-[[/assets/images/network.png]]
+<img src="/assets/images/network.png">
 [Network](https://discord.gg/Da73My9ng2)
 
-[[assets/images/AS.png]]
+<img src="assets/images/AS.png">
 [Network](https://discord.gg/Da73My9ng2)
 
-[[/assets/images/ADT.png]]
+<img src="/assets/images/ADT.png">
 [ADT](https://discord.gg/Da73My9ng2)
