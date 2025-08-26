@@ -5,14 +5,21 @@
 
 # Discord Servers
 
-<img src="/assets/images/network.png" alt="Network" width="75" height="75">
 
-[Network](https://discord.gg/Da73My9ng2)
+<a href="https://discord.gg/Da73My9ng2">
+  <img src="/assets/images/network.png" width="75px height=75">
 
-<img src="assets/images/AS.png" alt="AS" width="75" height="75">
+</a>
 
-[Absent Services](https://discord.gg/Da73My9ng2)
+<a href="https://discord.gg/SD5AsvPrZW">
+  <img src="assets/images/AS.png" width="75px height=75">
 
-<img src="/assets/images/ADT.png" alt="ADT" width="75" height="75">
+</a>
 
-[ADT](https://discord.gg/Da73My9ng2)
+<a href="https://discord.gg/SHPab9YH6T">
+  <img src="/assets/images/ADT.png" width="75px height=75">
+
+</a>
+
+</div>
+
