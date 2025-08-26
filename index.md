@@ -5,9 +5,19 @@
 
 # Discord Servers
 
-[Network](\assets\images\network.png "[Network](https://discord.gg/Da73My9ng2)) 
+[Network](/assets/images/network.png "[Network](https://discord.gg/Da73My9ng2)) 
 
-[AbsentServices](\assets\images\AS.png "[Absent Services](https://discord.gg/SD5AsvPrZW))
+[AbsentServices](/assets/images/AS.png "[Network](https://discord.gg/Da73My9ng2))
 
-[ADT](\assets\images\ADT.png "[Discord Temps](https://discord.gg/SHPab9YH6T))
+[ADT](/assets/images/ADT.png "[ADT](https://discord.gg/Da73My9ng2))
 
+
+
+[[/assets/images/network.png]]
+[Network](https://discord.gg/Da73My9ng2)
+
+[[assets/images/AS.png]]
+[Network](https://discord.gg/Da73My9ng2)
+
+[[/assets/images/ADT.png]]
+[ADT](https://discord.gg/Da73My9ng2)
