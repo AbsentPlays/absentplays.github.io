@@ -18,5 +18,5 @@
 [ADT](https://discord.gg/SHPab9YH6T) 
 
 
-- <img src="/assets/images/network.png" alt="Network" width="75" height="75"> | <img src="assets/images/AS.png" alt="AS" width="75" height="75"> | <img src="/assets/images/ADT.png" alt="ADT" width="75" height="75"> 
+<img src="/assets/images/network.png" alt="Network" width="75" height="75"> | <img src="assets/images/AS.png" alt="AS" width="75" height="75"> | <img src="/assets/images/ADT.png" alt="ADT" width="75" height="75"> 
 
