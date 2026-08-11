@@ -9,8 +9,8 @@
 
 <img src="assets/images/AS.png" alt="AS" width="75" height="75"> | <img src="/assets/images/ADT.png" alt="ADT" width="75" height="75"> 
 [Absent Services](https://discord.gg/SD5AsvPrZW) | [AbsentDiscordTemps](https://discord.gg/SHPab9YH6T) 
-* Limited Minecraft Help                         | * Free Discord Templates 
-* Limited Discord Help                           | * Custom Templates(By Request)
+- Limited Minecraft Help                         | - Free Discord Templates 
+- Limited Discord Help                           | - Custom Templates(By Request)
 
 # Partners
 
