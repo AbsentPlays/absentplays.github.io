@@ -11,6 +11,7 @@
 [Absent Services](https://discord.gg/SD5AsvPrZW) | [AbsentDiscordTemps](https://discord.gg/SHPab9YH6T) 
 - Limited Minecraft Help                         | - Free Discord Templates 
 - Limited Discord Help                           | - Custom Templates(By Request)
+- List of our projects
 
 # Partners
 <!--img src="/assets/images/physgun.png" alt="Network" width="120" height="200"!-->
